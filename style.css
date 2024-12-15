@@ -1,0 +1,24 @@
+.Home{
+    background-image: url(image/red-roses-bouquet-pink-background_913266-78269.avif);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+    height:700px;
+    
+}
+.body{
+    background-color:rgb(231, 209, 181);
+
+}
+.nav{
+    background-color: darkolivegreen;
+}
+h1:hover{
+    color: #d36a6a;
+}
+h4:hover{
+    color: #297e5d;
+}
+.btn{
+    color: antiquewhite;
+}
